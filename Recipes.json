@@ -1,44 +1,56 @@
-WwogIHsKICAgICJpZCI6ICJjaGlwb3RsZS10YWNvcyIsCiAgICAidGl0bGUi
-OiAiQ3Jpc3B5IENoZWVzeSBDaGlwb3RsZSBCZWVmIFRhY29zIiwKICAgICJh
-dXRob3IiOiAiSmFsYWxTYW1GaXQiLAogICAgInNvdXJjZVVybCI6ICJodHRw
-czovL3d3dy5mYWNlYm9vay5jb20vc2hhcmUvci8xSHVoRFo0djFDLyIsCiAg
-ICAicHJlcFRpbWUiOiAiUFQxNU0iLAogICAgImNvb2tUaW1lIjogIlBUMjVN
-IiwKICAgICJ0b3RhbFRpbWUiOiAiUFQ0ME0iLAogICAgInlpZWxkIjogIjE1
-IFRhY29zIiwKICAgICJtYWNyb3MiOiB7CiAgICAgICJjYWxvcmllcyI6ICIy
-OTIiLAogICAgICAicHJvdGVpbiI6ICIyN2ciLAogICAgICAiY2FyYnMiOiAi
-MjNnIiwKICAgICAgImZhdCI6ICIxMGciCiAgICB9LAogICAgImluZ3JlZGll
-bnRzIjogWwogICAgICAiMTIwMGcgUmF3IDUlIEZhdCBHcm91bmQgQmVlZiIs
-CiAgICAgICIyIFRzcCBTYWx0IiwKICAgICAgIjIgVHNwIEJsYWNrIFBlcHBl
-ciIsCiAgICAgICIzIFRzcCBDdW1pbiIsCiAgICAgICI0IFRzcCBHYXJsaWMg
-UG93ZGVyIiwKICAgICAgIjMgVHNwIE9uaW9uIFBvd2RlciIsCiAgICAgICI0
-IFRzcCBTbW9rZWQgUGFwcmlrYSIsCiAgICAgICI0IFRzcCBPcmVnYW5vIiwK
-ICAgICAgIjMwZyBMaWdodCBCdXR0ZXIiLAogICAgICAiMjAwZyBPbmlvbiwg
-Y2hvcHBlZCIsCiAgICAgICI1MGcgR2FybGljLCBjaG9wcGVkIiwKICAgICAg
-IjIwMGcgVG9tYXRvIFBhc3RlIiwKICAgICAgIjE1MGcgQ2hpcG90bGUgUGFz
-dGUiLAogICAgICAiU3BsYXNoIG9mIFdhdGVyIG9yIEJlZWYgQnJvdGgiLAog
-ICAgICAiMTUgTG93IENhcmIgTWluaSBUb3J0aWxsYXMiLAogICAgICAiMzMw
-ZyBMaWdodCBTaHJlZGRlZCBNb3p6YXJlbGxhIiwKICAgICAgIjM1MGcgMTUl
-IFNvdXIgQ3JlYW0gb3IgR3JlZWsgWW9ndXJ0IiwKICAgICAgIjEyMGcgTGln
-aHQgTWF5byIsCiAgICAgICI2MC04MGcgQ2hpcG90bGUgUGFzdGUiLAogICAg
-ICAiMzBnIEhvbmV5IiwKICAgICAgIjEgVHNwIFBhcHJpa2EiLAogICAgICAi
-MSBUc3AgR2FybGljIFBvd2RlciIsCiAgICAgICIxIFRzcCBQYXJzbGV5IiwK
-ICAgICAgIjUwbWwgRXZhcG9yYXRlZCBNaWxrIiwKICAgICAgIlNxdWVlemUg
-b2YgTGltZSBKdWljZSIsCiAgICAgICI0MDBnIFRvbWF0bywgY2hvcHBlZCIs
-CiAgICAgICIyMDBnIEdyZWVuIEJlbGwgUGVwcGVyLCBjaG9wcGVkIiwKICAg
-ICAgIjQwMGcgUGluZWFwcGxlLCBjaG9wcGVkIiwKICAgICAgIkJpZyBoYW5k
-ZnVsIENvcmlhbmRlciwgY2hvcHBlZCIsCiAgICAgICIxIExpbWUsIGp1aWNl
-ZCIKICAgIF0sCiAgICAiaW5zdHJ1Y3Rpb25zIjogWwogICAgICAiQWRkIGxp
-Z2h0IGJ1dHRlciB0byBwYW4gb24gbWVkaXVtIGhlYXQuIENvb2sgY2hvcHBl
-ZCBvbmlvbiBhbmQgZ2FybGljIDUgbWlucyB0aWxsIHNvZnQuIEFkZCBncm91
-bmQgYmVlZiwgY29vayB1bnRpbCBicm93biwgYWRkIHNlYXNvbmluZyB3aXRo
-IHRvbWF0byAmIGNoaXBvdGxlIHBhc3RlLiIsCiAgICAgICJNaXggdGlsbCBn
-b2xkZW4sIGFkZCBzcGxhc2ggb2Ygd2F0ZXIgb3IgYmVlZiBicm90aC4gTWl4
-IHRpbGwganVpY3kgYW5kIGRlbGljaW91cy4iLAogICAgICAiTGFyZ2Ugc2hl
-ZXQgcGFuLCBhZGQgY29va2luZyBzcHJheSBhbmQgc3ByaW5rbGUgcGFwcmlr
-YS4gRGlwIHRhY29zIGluIGJlZWYganVpY2VzIHRoZW4gb2lsIGFuZCBsYXkg
-dGhlbSBvdXQgZXZlbmx5LiBGaWxsIGdlbmVyb3VzbHkgd2l0aCBtb3p6YXJl
-bGxhIGFuZCBjaGlwb3RsZSBiZWVmLiBGb2xkIHRpZ2h0bHksIG92ZW4gYmFr
-ZSAxNiBtaW5zLCBmbGlwcGluZyBoYWxmd2F5LCB1bnRpbCBnb2xkZW4gJiBj
-cmlzcHkuIiwKICAgICAgIkluIDIgc2VwYXJhdGUgYm93bHMsIG1ha2UgaG9u
-ZXkgY2hpcG90bGUgc2F1Y2UgYW5kIHBpbmVhcHBsZSBwaWNvLiBTZXJ2ZSB3
-aXRoIGNoZWVzeSB0YWNvcyAmIEVOSk9ZISIKICAgIF0KICB9Cl0K
+[
+  {
+    "id": "chipotle-tacos",
+    "title": "Crispy Cheesy Chipotle Beef Tacos",
+    "author": "JalalSamFit",
+    "sourceUrl": "https://www.facebook.com/share/r/1HuhDZ4v1C/",
+    "prepTime": "PT15M",
+    "cookTime": "PT25M",
+    "totalTime": "PT40M",
+    "yield": "15 Tacos",
+    "macros": {
+      "calories": "292",
+      "protein": "27g",
+      "carbs": "23g",
+      "fat": "10g"
+    },
+    "ingredients": [
+      "1200g Raw 5% Fat Ground Beef",
+      "2 Tsp Salt",
+      "2 Tsp Black Pepper",
+      "3 Tsp Cumin",
+      "4 Tsp Garlic Powder",
+      "3 Tsp Onion Powder",
+      "4 Tsp Smoked Paprika",
+      "4 Tsp Oregano",
+      "30g Light Butter",
+      "200g Onion, chopped",
+      "50g Garlic, chopped",
+      "200g Tomato Paste",
+      "150g Chipotle Paste",
+      "Splash of Water or Beef Broth",
+      "15 Low Carb Mini Tortillas",
+      "330g Light Shredded Mozzarella",
+      "350g 15% Sour Cream or Greek Yogurt",
+      "120g Light Mayo",
+      "60-80g Chipotle Paste",
+      "30g Honey",
+      "1 Tsp Paprika",
+      "1 Tsp Garlic Powder",
+      "1 Tsp Parsley",
+      "50ml Evaporated Milk",
+      "Squeeze of Lime Juice",
+      "400g Tomato, chopped",
+      "200g Green Bell Pepper, chopped",
+      "400g Pineapple, chopped",
+      "Big handful Coriander, chopped",
+      "1 Lime, juiced"
+    ],
+    "instructions": [
+      "Add light butter to pan on medium heat. Cook chopped onion and garlic 5 mins till soft. Add ground beef, cook until brown, add seasoning with tomato & chipotle paste.",
+      "Mix till golden, add splash of water or beef broth. Mix till juicy and delicious.",
+      "Large sheet pan, add cooking spray and sprinkle paprika. Dip tacos in beef juices then oil and lay them out evenly. Fill generously with mozzarella and chipotle beef. Fold tightly, oven bake 16 mins, flipping halfway, until golden & crispy.",
+      "In 2 separate bowls, make honey chipotle sauce and pineapple pico. Serve with cheesy tacos & ENJOY!"
+    ]
+  }
+]
